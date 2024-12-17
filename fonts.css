@@ -1,0 +1,47 @@
+.playwrite-nl-guides-regular {
+  font-family: "Playwrite NL Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.c1{ color:pink;
+     font-size:50px;
+	 margin-bottom:200px;
+	 text-align:left;
+}
+.ri-building-line{
+	
+	display:inline-block;
+	position:absolute;
+	bottom:100px;
+	position:fixed;
+}
+.c2{
+	color:red;
+	font-size:70px;
+	margin-bottom:200px;
+text-align:left;
+}
+
+
+.ri-menu-fill{
+	
+    display:inline-block;
+	position:absolute;
+	bottom:100px;
+	position:sticky;
+}
+
+
+.c3{
+	color:blue;
+	font-size:70px;
+	margin-bottom:200px;
+text-align:left;
+}
+.ri-home-2-fill{
+	
+    display:inline-block;
+	position:absolute;
+	top:100px;
+	position:fixed;
+}
